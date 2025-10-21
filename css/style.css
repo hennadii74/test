@@ -15,6 +15,16 @@
     margin: 100px 0;
 }
 
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 60%;
+    height: auto;
+    margin: 0 auto;
+}
+
 .text {
     font-style: italic;
     text-align: center;
