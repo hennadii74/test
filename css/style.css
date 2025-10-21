@@ -42,4 +42,14 @@ body {
     border-radius: 5px;
     color:rgb(88, 60, 60);
     margin: 50px auto;
+    border: 1px solid whitesmoke;
+}
+
+.btn:hover {
+    background-color: rgb(51, 52, 52);
+    color: whitesmoke;
+    width: 90px;
+    height: 45px;
+    transition: all ease .3s;
+    border: 1px solid whitesmoke;
 }
