@@ -1,6 +1,3 @@
-
-console.log('js is working')
-
 let title = document.title
 
 console.log(title)
